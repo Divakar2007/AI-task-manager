@@ -1,0 +1,5 @@
+{
+  "name": "AI Task Manager",
+  "description": "A smart task manager that uses Gemini AI to prioritize tasks and integrates with Google Calendar to manage your schedule.",
+  "requestFramePermissions": []
+}
